@@ -1,0 +1,16 @@
+{
+  "name": "the-marketing-vault",
+  "displayName": "The Marketing Vault",
+  "version": "0.1.0",
+  "description": "Run The Marketing Vault's marketing copy and strategy tools from Cursor, using your own business context, ICP and brand voice.",
+  "author": {
+    "name": "BeKnown Online",
+    "email": "dpope@beknownonline.com",
+    "url": "https://marketerprompts.com"
+  },
+  "homepage": "https://marketerprompts.com",
+  "license": "MIT",
+  "keywords": ["marketing", "copywriting", "content", "icp", "brand-voice", "mcp"],
+  "mcp": "./mcp.json",
+  "rules": ["./rules/marketing-vault.md"]
+}

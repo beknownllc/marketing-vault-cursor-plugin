@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "the-marketing-vault": {
+      "url": "https://agsuleyeonapmldynizb.supabase.co/functions/v1/mcp"
+    }
+  }
+}
